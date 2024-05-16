@@ -11,3 +11,4 @@ Materials:
 - Piezo
 - Slide Switch
 - Raspberry pi for Wireless
+[IMG_6752.pdf](https://github.com/IberIzzy/FlexGlove-Real-Time-Robotic-Control-Interface/files/15339342/IMG_6752.pdf)
